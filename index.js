@@ -174,4 +174,17 @@ function changename(){
     console.log(domElement);
     
 }
+// ------------------------------------------------------------------
+// for(i=1;i<100;i++){
+//   if(i==50||i==30||i==10){
+//     continue;
+//   } 
+//   console.log(i)
+   
+    
+  
+//     if(i==70){
+//     break;
+//     }
+// }
 
